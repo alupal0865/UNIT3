@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE10.java">
-      <change afterPath="$PROJECT_DIR$/src/Example11.java" afterDir="false" />
+    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE12.java">
+      <change afterPath="$PROJECT_DIR$/src/EXAMPLE12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <recent name="__" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example11">
+  <component name="RunManager" selected="Application.EXAMPLE12">
     <configuration name="EXAMPLE10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EXAMPLE10" />
       <module name="UNIT3" />
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EXAMPLE7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EXAMPLE7" />
+    <configuration name="EXAMPLE12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXAMPLE12" />
       <module name="UNIT3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EXAMPLE12" />
         <item itemvalue="Application.Example11" />
         <item itemvalue="Application.EXAMPLE10" />
         <item itemvalue="Application.EXAMPLE9" />
         <item itemvalue="Application.EXAMPLE8" />
-        <item itemvalue="Application.EXAMPLE7" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665433947999</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="EXAMPLE11.java">
+      <created>1665495044105</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665495044105</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +190,8 @@
     <MESSAGE value="EXAMPLE7.java" />
     <MESSAGE value="EXAMPLE8.java" />
     <MESSAGE value="EXAMPLE9.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE9.java" />
+    <MESSAGE value="EXAMPLE11.java" />
+    <MESSAGE value="EXAMPLE12.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE12.java" />
   </component>
 </project>
