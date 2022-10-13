@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE14.java">
-      <change afterPath="$PROJECT_DIR$/src/EXAMPLE14WITHERROR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Example14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EXAMPLE14.java" afterDir="false" />
+    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE14.java&#10;EXAMPLE14WITHERROR.java">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__/If.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665516596839</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="EXAMPLE14.java&#10;EXAMPLE14WITHERROR.java">
+      <created>1665684028029</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665684028029</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +222,7 @@
     <MESSAGE value="EXAMPLE12.java" />
     <MESSAGE value="EXAMPLE13.java" />
     <MESSAGE value="EXAMPLE14.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE14.java" />
+    <MESSAGE value="EXAMPLE14.java&#10;EXAMPLE14WITHERROR.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE14.java&#10;EXAMPLE14WITHERROR.java" />
   </component>
 </project>
