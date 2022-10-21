@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE14.java&#10;EXAMPLE14WITHERROR.java">
-      <change afterPath="$PROJECT_DIR$/src/Example27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EXAMPLE27.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
       <recent name="__" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example27">
+  <component name="RunManager" selected="Application.EXAMPLE27">
     <configuration name="EXAMPLE15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EXAMPLE15" />
       <module name="UNIT3" />
@@ -51,15 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example14WithError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example14WithError" />
+    <configuration name="EXAMPLE27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXAMPLE27" />
       <module name="UNIT3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example27" />
+    <configuration name="Example14WithError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example14WithError" />
       <module name="UNIT3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,7 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example27" />
+        <item itemvalue="Application.EXAMPLE27" />
         <item itemvalue="Application.Example14WithError" />
         <item itemvalue="Application.EXAMPLE15" />
         <item itemvalue="Java Scratch.Scratch (1)" />
@@ -210,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665684228270</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="EXAMPLE14.java&#10;EXAMPLE14WITHERROR.java">
+      <created>1666376398139</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666376398139</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
