@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE27.java">
-      <change afterPath="$PROJECT_DIR$/src/EXAMPLE31.java" afterDir="false" />
+    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE31.java">
+      <change afterPath="$PROJECT_DIR$/src/EXAMPLE34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2FijuBb134r4oN6bUF8bOJxsxNk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,14 +46,7 @@
       <recent name="__" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example31">
-    <configuration name="EXAMPLE15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EXAMPLE15" />
-      <module name="UNIT3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EXAMPLE34">
     <configuration name="EXAMPLE27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EXAMPLE27" />
       <module name="UNIT3" />
@@ -60,6 +56,13 @@
     </configuration>
     <configuration name="EXAMPLE31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EXAMPLE31" />
+      <module name="UNIT3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EXAMPLE34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXAMPLE34" />
       <module name="UNIT3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EXAMPLE34" />
         <item itemvalue="Application.Example31" />
         <item itemvalue="Application.EXAMPLE31" />
         <item itemvalue="Application.EXAMPLE27" />
         <item itemvalue="Application.Example14WithError" />
-        <item itemvalue="Application.EXAMPLE15" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666376638440</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="EXAMPLE31.java">
+      <created>1666378416166</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1666378416166</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +262,17 @@
     <MESSAGE value="EXAMPLE14.java" />
     <MESSAGE value="EXAMPLE14.java&#10;EXAMPLE14WITHERROR.java" />
     <MESSAGE value="EXAMPLE27.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE27.java" />
+    <MESSAGE value="EXAMPLE31.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE31.java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
