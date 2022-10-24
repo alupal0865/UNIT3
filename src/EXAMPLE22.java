@@ -8,6 +8,6 @@ class Example22 {
             product = product * i;
         }
         System.out.println ("Sum from 1 to 10:” + sum");
-                System.out.println("Product from 1 to 10:” + product");
+        System.out.println("Product from 1 to 10:” + product");
     }
 }
