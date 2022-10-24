@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE33.java">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EXAMPLE19.java" afterDir="false" />
+    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE19.java">
+      <change afterPath="$PROJECT_DIR$/src/EXAMPLE16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,14 +52,7 @@
       <recent name="__" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example19">
-    <configuration name="EXAMPLE31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EXAMPLE31" />
-      <module name="UNIT3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Example16">
     <configuration name="EXAMPLE32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EXAMPLE32" />
       <module name="UNIT3" />
@@ -71,6 +62,13 @@
     </configuration>
     <configuration name="EXAMPLE34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EXAMPLE34" />
+      <module name="UNIT3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example16" />
       <module name="UNIT3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example16" />
         <item itemvalue="Application.Example19" />
         <item itemvalue="Application.EXAMPLE32" />
         <item itemvalue="Application.Example31" />
         <item itemvalue="Application.EXAMPLE34" />
-        <item itemvalue="Application.EXAMPLE31" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +254,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666397694023</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="EXAMPLE19.java">
+      <created>1666629793215</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666629793219</updated>
+    </task>
+    <task id="LOCAL-00023" summary="EXAMPLE19.java">
+      <created>1666629909469</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666629909470</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,7 +299,8 @@
     <MESSAGE value="EXAMPLE31.java" />
     <MESSAGE value="EXAMPLE34.java" />
     <MESSAGE value="EXAMPLE32.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE32.java" />
+    <MESSAGE value="EXAMPLE19.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE19.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
