@@ -6,6 +6,7 @@ class Example21 {
         inputValue = new Scanner(System.in);
         positives =0;
         for (int i = 0; i < 10; i++) {
+            System.out.println("Introduzca diez números");
             num = inputValue.nextInt();
             if (num >= 0) {
                 positives = positives + 1;
