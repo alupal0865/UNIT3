@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE17">
-      <change afterPath="$PROJECT_DIR$/src/EXAMPLE18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE18" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -380,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668877604379</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="EXAMPLE18">
+      <created>1668879475503</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1668879475503</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -395,7 +399,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="EXAMPLE4" />
     <MESSAGE value="EXAMPLE5" />
     <MESSAGE value="EXAMPLE6" />
     <MESSAGE value="EXAMPLE6.java" />
@@ -420,7 +423,8 @@
     <MESSAGE value="EXAMPLE30" />
     <MESSAGE value="EXAMPLE15" />
     <MESSAGE value="EXAMPLE17" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE17" />
+    <MESSAGE value="EXAMPLE18" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
