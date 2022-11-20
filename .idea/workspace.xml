@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE24">
-      <change afterPath="$PROJECT_DIR$/src/EXAMPLE25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0774a26b-b4e3-436d-9996-4ce1f75350b0" name="changelist" comment="EXAMPLE25" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,14 +49,7 @@
       <recent name="__" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EXAMPLE25">
-    <configuration name="EXAMPLE18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EXAMPLE18" />
-      <module name="UNIT3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Example26">
     <configuration name="EXAMPLE20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EXAMPLE20" />
       <module name="UNIT3" />
@@ -95,13 +85,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example26" />
+      <module name="UNIT3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example26" />
         <item itemvalue="Application.EXAMPLE25" />
         <item itemvalue="Application.EXAMPLE24" />
         <item itemvalue="Application.EXAMPLE20BIS" />
         <item itemvalue="Application.EXAMPLE20" />
-        <item itemvalue="Application.EXAMPLE18" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668961108960</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="EXAMPLE25">
+      <created>1668962308136</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1668962308136</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +434,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="EXAMPLE7.java" />
     <MESSAGE value="EXAMPLE8.java" />
     <MESSAGE value="EXAMPLE9.java" />
     <MESSAGE value="EXAMPLE11.java" />
@@ -455,7 +458,8 @@
     <MESSAGE value="EXAMPLE20" />
     <MESSAGE value="EXAMPLE20BIS" />
     <MESSAGE value="EXAMPLE24" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE24" />
+    <MESSAGE value="EXAMPLE25" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXAMPLE25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
